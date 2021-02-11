@@ -1,0 +1,9 @@
+Dialog DLL:
+DARMSTM.DLL
+Parameter:
+-pSTM32F103ZE
+
+Dialog DLL:
+TARMSTM.DLL
+Parameter:
+-pSTM32F103ZE

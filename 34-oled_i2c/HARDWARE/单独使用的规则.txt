@@ -1,0 +1,10 @@
+需要复制的文件有
+cadetab.h文字库
+codetab.h~RF9dafcc4.TMP
+oled.c显示
+oled.h
+如需必要的菜单：
+menu.h
+menu.c菜单
+funcation.c菜单中的功能
+funcation.h
